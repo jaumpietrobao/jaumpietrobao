@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🎮 "Prepare-se para uma aventura épica! Seja bem-vindo(a) ao nosso mundo de códigos e conquistas. Let's level up together!" 🚀
 
-<!--
 **jaumpietrobao/jaumpietrobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 Minhas Especialidades:<br>
+-Linguagens <br>
+[![My Skills](https://skillicons.dev/icons?i=java,c,py)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Ferramentas<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,postgres,git)](https://skillicons.dev)
+
+🌱 Atualmente Trabalho:<br>
+[![My Skills](https://skillicons.dev/icons?i=sketchup)](https://skillicons.dev)
+
+📫 Como me encontrar:
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)<br>linkedin.com/in/jaum-pietro-571a5b312<br>
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)<br>joaopedropietrobom11@gmail.com
+

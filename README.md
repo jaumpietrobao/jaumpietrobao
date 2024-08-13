@@ -13,7 +13,7 @@
 
 ##
 # 𝕊𝕠𝕓𝕣𝕖 𝕄𝕚𝕞<br>
- Estou cursando Sistema da Informção na Unimater, tenho minha propria empresa de Moveis, onde transformando sonhos em realidade. Mas precisa de um novo desafio, foi onde conheci 
+ Estou cursando Sistema da Informção na Unimater, tenho minha propria empresa de Moveis, onde transformando sonhos em realidade. Mas precisava de um novo desafio, foi onde conheci 
 Sistemas, uma area inclivelmente gigantesca, e gostei. Bom, isso é breve resumo sobre mim.
 
   ## 
